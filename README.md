@@ -246,9 +246,9 @@ Master of Computer Applications (MCA)
 
 Presidency University, Bengaluru
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sathvikbs20
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/sathvikbs
 
 ---
 
